@@ -1,0 +1,10 @@
+{
+    "domain": "class_rank_best_x_laps_consecutives",
+    "name": "Class Rank: Best X Laps (Consecutives)",
+    "author": "Arnaud Morin",
+    "license": "MIT",
+    "description": "Adds a 'Best X Laps (Consecutives)' class ranking method that finds the fastest consecutive laps",
+    "documentation_uri": "https://github.com/arnaudmorin/RotorHazard-Class-Rank-Best-X-Laps-Cumulative/",
+    "required_rhapi_version": "1.0",
+    "version": "1.0.0"
+}
